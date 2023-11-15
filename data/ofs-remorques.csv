@@ -1,0 +1,235 @@
+"Canton","Groupe / Genre de véhicule","2019","2020","2021","2022","2023"
+"Zürich","... Remorque agricole",86,73,86,63,91
+"Zürich","... Remorque motocycle",4,15,3,8,3
+"Zürich","... Remorque de travail agricole",74,65,80,74,66
+"Zürich","... Remorque transport de choses",1298,1235,1350,1229,1227
+"Zürich","... Caravane",220,213,247,246,212
+"Zürich","... Remorque pour engins de sport",119,153,146,125,98
+"Zürich","... Remorque de travail",102,111,105,93,114
+"Zürich","... Semi-remorque transport de choses",148,114,102,116,134
+"Zürich","... Autres remorques",77,83,69,85,100
+"Bern / Berne","... Remorque agricole",194,114,115,110,145
+"Bern / Berne","... Remorque motocycle",17,62,171,424,386
+"Bern / Berne","... Remorque de travail agricole",83,114,120,87,108
+"Bern / Berne","... Remorque transport de choses",1629,1684,1824,1489,1409
+"Bern / Berne","... Caravane",256,247,215,285,255
+"Bern / Berne","... Remorque pour engins de sport",93,105,109,111,83
+"Bern / Berne","... Remorque de travail",125,128,126,73,113
+"Bern / Berne","... Semi-remorque transport de choses",139,104,108,85,99
+"Bern / Berne","... Autres remorques",39,42,68,72,48
+"Luzern","... Remorque agricole",92,60,89,73,95
+"Luzern","... Remorque motocycle",1,0,0,0,2
+"Luzern","... Remorque de travail agricole",40,47,49,50,46
+"Luzern","... Remorque transport de choses",670,666,708,602,639
+"Luzern","... Caravane",116,100,135,164,114
+"Luzern","... Remorque pour engins de sport",26,38,26,23,20
+"Luzern","... Remorque de travail",37,52,49,56,59
+"Luzern","... Semi-remorque transport de choses",71,63,57,76,70
+"Luzern","... Autres remorques",28,27,21,30,33
+"Uri","... Remorque agricole",0,2,1,3,0
+"Uri","... Remorque motocycle",0,0,0,0,0
+"Uri","... Remorque de travail agricole",1,0,2,1,2
+"Uri","... Remorque transport de choses",66,50,62,63,57
+"Uri","... Caravane",8,11,8,6,7
+"Uri","... Remorque pour engins de sport",2,6,3,2,0
+"Uri","... Remorque de travail",8,9,12,5,12
+"Uri","... Semi-remorque transport de choses",3,4,3,4,2
+"Uri","... Autres remorques",5,0,7,2,0
+"Schwyz","... Remorque agricole",18,15,19,13,19
+"Schwyz","... Remorque motocycle",0,0,0,0,0
+"Schwyz","... Remorque de travail agricole",12,19,12,11,9
+"Schwyz","... Remorque transport de choses",287,285,314,290,273
+"Schwyz","... Caravane",31,56,60,50,51
+"Schwyz","... Remorque pour engins de sport",39,44,37,39,36
+"Schwyz","... Remorque de travail",21,18,18,18,36
+"Schwyz","... Semi-remorque transport de choses",20,16,21,13,10
+"Schwyz","... Autres remorques",9,9,11,13,12
+"Obwalden","... Remorque agricole",7,3,4,3,6
+"Obwalden","... Remorque motocycle",0,0,0,0,0
+"Obwalden","... Remorque de travail agricole",4,2,9,3,1
+"Obwalden","... Remorque transport de choses",101,100,89,90,81
+"Obwalden","... Caravane",16,12,8,17,3
+"Obwalden","... Remorque pour engins de sport",7,6,8,4,10
+"Obwalden","... Remorque de travail",15,7,13,4,9
+"Obwalden","... Semi-remorque transport de choses",5,6,2,9,12
+"Obwalden","... Autres remorques",3,1,0,4,2
+"Nidwalden","... Remorque agricole",0,1,4,2,2
+"Nidwalden","... Remorque motocycle",0,0,0,0,0
+"Nidwalden","... Remorque de travail agricole",3,3,0,4,0
+"Nidwalden","... Remorque transport de choses",47,59,73,70,58
+"Nidwalden","... Caravane",14,10,14,14,7
+"Nidwalden","... Remorque pour engins de sport",4,9,7,6,3
+"Nidwalden","... Remorque de travail",8,8,3,7,7
+"Nidwalden","... Semi-remorque transport de choses",0,7,6,4,7
+"Nidwalden","... Autres remorques",1,5,3,2,4
+"Glarus","... Remorque agricole",3,0,1,2,6
+"Glarus","... Remorque motocycle",0,0,0,0,0
+"Glarus","... Remorque de travail agricole",4,2,0,3,2
+"Glarus","... Remorque transport de choses",78,74,84,65,68
+"Glarus","... Caravane",6,4,10,6,3
+"Glarus","... Remorque pour engins de sport",7,5,7,5,4
+"Glarus","... Remorque de travail",5,1,2,4,4
+"Glarus","... Semi-remorque transport de choses",3,7,3,3,9
+"Glarus","... Autres remorques",5,2,4,3,5
+"Zug","... Remorque agricole",8,5,3,6,4
+"Zug","... Remorque motocycle",0,0,0,0,0
+"Zug","... Remorque de travail agricole",14,11,12,7,12
+"Zug","... Remorque transport de choses",147,179,148,146,203
+"Zug","... Caravane",19,19,29,29,26
+"Zug","... Remorque pour engins de sport",19,22,33,19,19
+"Zug","... Remorque de travail",13,12,15,19,14
+"Zug","... Semi-remorque transport de choses",9,10,15,9,22
+"Zug","... Autres remorques",4,3,6,6,7
+"Fribourg / Freiburg","... Remorque agricole",89,86,120,99,108
+"Fribourg / Freiburg","... Remorque motocycle",0,0,0,0,0
+"Fribourg / Freiburg","... Remorque de travail agricole",67,94,101,82,69
+"Fribourg / Freiburg","... Remorque transport de choses",694,778,808,667,650
+"Fribourg / Freiburg","... Caravane",41,49,72,68,54
+"Fribourg / Freiburg","... Remorque pour engins de sport",52,47,49,49,54
+"Fribourg / Freiburg","... Remorque de travail",43,34,28,37,28
+"Fribourg / Freiburg","... Semi-remorque transport de choses",31,28,19,21,30
+"Fribourg / Freiburg","... Autres remorques",20,17,21,30,36
+"Solothurn","... Remorque agricole",27,28,33,24,18
+"Solothurn","... Remorque motocycle",0,0,0,0,0
+"Solothurn","... Remorque de travail agricole",12,19,18,20,16
+"Solothurn","... Remorque transport de choses",466,413,426,395,429
+"Solothurn","... Caravane",79,72,81,62,74
+"Solothurn","... Remorque pour engins de sport",16,31,19,23,26
+"Solothurn","... Remorque de travail",43,21,17,25,18
+"Solothurn","... Semi-remorque transport de choses",49,28,29,70,58
+"Solothurn","... Autres remorques",14,21,26,18,12
+"Basel-Stadt","... Remorque agricole",0,1,1,0,0
+"Basel-Stadt","... Remorque motocycle",0,0,0,0,1
+"Basel-Stadt","... Remorque de travail agricole",0,0,0,0,0
+"Basel-Stadt","... Remorque transport de choses",66,82,81,64,63
+"Basel-Stadt","... Caravane",11,3,4,5,9
+"Basel-Stadt","... Remorque pour engins de sport",4,4,3,5,9
+"Basel-Stadt","... Remorque de travail",6,5,1,3,3
+"Basel-Stadt","... Semi-remorque transport de choses",42,28,40,18,41
+"Basel-Stadt","... Autres remorques",6,5,2,7,5
+"Basel-Landschaft","... Remorque agricole",12,9,8,17,12
+"Basel-Landschaft","... Remorque motocycle",0,1,0,0,0
+"Basel-Landschaft","... Remorque de travail agricole",10,9,13,6,5
+"Basel-Landschaft","... Remorque transport de choses",287,276,269,270,268
+"Basel-Landschaft","... Caravane",73,65,62,67,50
+"Basel-Landschaft","... Remorque pour engins de sport",14,14,20,10,11
+"Basel-Landschaft","... Remorque de travail",53,30,27,20,36
+"Basel-Landschaft","... Semi-remorque transport de choses",83,53,43,38,53
+"Basel-Landschaft","... Autres remorques",15,21,17,24,31
+"Schaffhausen","... Remorque agricole",22,10,22,13,14
+"Schaffhausen","... Remorque motocycle",0,0,0,0,0
+"Schaffhausen","... Remorque de travail agricole",8,18,8,14,18
+"Schaffhausen","... Remorque transport de choses",123,113,150,123,106
+"Schaffhausen","... Caravane",14,13,21,17,26
+"Schaffhausen","... Remorque pour engins de sport",13,13,21,13,11
+"Schaffhausen","... Remorque de travail",3,8,6,5,8
+"Schaffhausen","... Semi-remorque transport de choses",9,27,10,8,9
+"Schaffhausen","... Autres remorques",13,10,7,3,4
+"Appenzell Ausserrhoden","... Remorque agricole",5,9,6,9,3
+"Appenzell Ausserrhoden","... Remorque motocycle",0,0,0,0,0
+"Appenzell Ausserrhoden","... Remorque de travail agricole",1,5,3,4,3
+"Appenzell Ausserrhoden","... Remorque transport de choses",109,109,103,113,96
+"Appenzell Ausserrhoden","... Caravane",16,10,16,17,12
+"Appenzell Ausserrhoden","... Remorque pour engins de sport",2,4,8,1,1
+"Appenzell Ausserrhoden","... Remorque de travail",3,0,5,3,6
+"Appenzell Ausserrhoden","... Semi-remorque transport de choses",0,0,3,4,3
+"Appenzell Ausserrhoden","... Autres remorques",3,1,2,3,1
+"Appenzell Innerrhoden","... Remorque agricole",8,3,3,5,1
+"Appenzell Innerrhoden","... Remorque motocycle",0,0,0,0,0
+"Appenzell Innerrhoden","... Remorque de travail agricole",0,6,5,5,1
+"Appenzell Innerrhoden","... Remorque transport de choses",29,48,57,41,51
+"Appenzell Innerrhoden","... Caravane",9,1,4,4,3
+"Appenzell Innerrhoden","... Remorque pour engins de sport",1,1,1,0,1
+"Appenzell Innerrhoden","... Remorque de travail",3,4,1,1,4
+"Appenzell Innerrhoden","... Semi-remorque transport de choses",0,0,3,0,1
+"Appenzell Innerrhoden","... Autres remorques",3,1,3,1,1
+"St. Gallen","... Remorque agricole",61,56,60,66,59
+"St. Gallen","... Remorque motocycle",0,0,1,1,0
+"St. Gallen","... Remorque de travail agricole",59,45,55,66,45
+"St. Gallen","... Remorque transport de choses",753,839,864,773,761
+"St. Gallen","... Caravane",121,127,121,128,120
+"St. Gallen","... Remorque pour engins de sport",21,29,39,49,32
+"St. Gallen","... Remorque de travail",64,55,47,43,50
+"St. Gallen","... Semi-remorque transport de choses",93,84,65,59,72
+"St. Gallen","... Autres remorques",39,29,32,27,39
+"Graubünden / Grigioni / Grischun","... Remorque agricole",13,11,19,18,14
+"Graubünden / Grigioni / Grischun","... Remorque motocycle",0,0,0,0,0
+"Graubünden / Grigioni / Grischun","... Remorque de travail agricole",9,8,18,15,7
+"Graubünden / Grigioni / Grischun","... Remorque transport de choses",398,540,498,394,406
+"Graubünden / Grigioni / Grischun","... Caravane",40,49,50,45,48
+"Graubünden / Grigioni / Grischun","... Remorque pour engins de sport",13,13,7,13,13
+"Graubünden / Grigioni / Grischun","... Remorque de travail",19,26,36,30,31
+"Graubünden / Grigioni / Grischun","... Semi-remorque transport de choses",34,22,27,16,34
+"Graubünden / Grigioni / Grischun","... Autres remorques",16,10,15,17,21
+"Aargau","... Remorque agricole",59,55,72,75,53
+"Aargau","... Remorque motocycle",2,0,1,1,0
+"Aargau","... Remorque de travail agricole",44,29,47,35,31
+"Aargau","... Remorque transport de choses",882,970,943,898,813
+"Aargau","... Caravane",167,187,201,181,174
+"Aargau","... Remorque pour engins de sport",61,51,70,66,39
+"Aargau","... Remorque de travail",51,58,52,66,51
+"Aargau","... Semi-remorque transport de choses",194,118,130,158,219
+"Aargau","... Autres remorques",27,25,38,26,45
+"Thurgau","... Remorque agricole",73,62,69,68,103
+"Thurgau","... Remorque motocycle",0,0,0,0,0
+"Thurgau","... Remorque de travail agricole",65,68,62,67,63
+"Thurgau","... Remorque transport de choses",511,549,603,552,502
+"Thurgau","... Caravane",91,89,98,93,84
+"Thurgau","... Remorque pour engins de sport",66,81,105,73,67
+"Thurgau","... Remorque de travail",19,23,23,28,28
+"Thurgau","... Semi-remorque transport de choses",60,76,47,43,50
+"Thurgau","... Autres remorques",24,9,20,27,19
+"Ticino","... Remorque agricole",8,5,10,6,2
+"Ticino","... Remorque motocycle",0,0,0,1,0
+"Ticino","... Remorque de travail agricole",1,3,3,4,4
+"Ticino","... Remorque transport de choses",291,267,406,241,228
+"Ticino","... Caravane",12,16,14,21,8
+"Ticino","... Remorque pour engins de sport",16,14,12,14,15
+"Ticino","... Remorque de travail",20,33,30,19,24
+"Ticino","... Semi-remorque transport de choses",48,23,24,34,34
+"Ticino","... Autres remorques",3,1,8,6,4
+"Vaud","... Remorque agricole",87,93,79,80,60
+"Vaud","... Remorque motocycle",0,1,1,2,4
+"Vaud","... Remorque de travail agricole",44,70,91,59,51
+"Vaud","... Remorque transport de choses",883,933,1041,884,781
+"Vaud","... Caravane",73,67,68,74,57
+"Vaud","... Remorque pour engins de sport",57,65,57,45,49
+"Vaud","... Remorque de travail",44,55,56,43,60
+"Vaud","... Semi-remorque transport de choses",44,44,37,48,47
+"Vaud","... Autres remorques",43,30,23,26,39
+"Valais / Wallis","... Remorque agricole",11,7,7,4,13
+"Valais / Wallis","... Remorque motocycle",1,2,1,1,2
+"Valais / Wallis","... Remorque de travail agricole",6,5,4,6,4
+"Valais / Wallis","... Remorque transport de choses",713,799,866,726,702
+"Valais / Wallis","... Caravane",37,48,43,65,50
+"Valais / Wallis","... Remorque pour engins de sport",11,12,18,7,12
+"Valais / Wallis","... Remorque de travail",66,71,41,37,56
+"Valais / Wallis","... Semi-remorque transport de choses",34,26,22,31,28
+"Valais / Wallis","... Autres remorques",15,15,20,19,12
+"Neuchâtel","... Remorque agricole",17,9,13,19,14
+"Neuchâtel","... Remorque motocycle",0,0,0,0,0
+"Neuchâtel","... Remorque de travail agricole",8,10,18,14,10
+"Neuchâtel","... Remorque transport de choses",204,194,178,184,172
+"Neuchâtel","... Caravane",21,17,16,19,19
+"Neuchâtel","... Remorque pour engins de sport",12,17,8,3,10
+"Neuchâtel","... Remorque de travail",7,18,12,9,6
+"Neuchâtel","... Semi-remorque transport de choses",17,24,4,16,14
+"Neuchâtel","... Autres remorques",6,7,14,8,6
+"Genève","... Remorque agricole",9,3,11,6,5
+"Genève","... Remorque motocycle",1,1,0,0,0
+"Genève","... Remorque de travail agricole",5,4,5,9,5
+"Genève","... Remorque transport de choses",200,202,219,156,163
+"Genève","... Caravane",9,14,6,23,8
+"Genève","... Remorque pour engins de sport",29,40,24,27,28
+"Genève","... Remorque de travail",16,8,23,9,10
+"Genève","... Semi-remorque transport de choses",20,21,9,28,10
+"Genève","... Autres remorques",13,12,13,17,5
+"Jura","... Remorque agricole",17,16,14,17,19
+"Jura","... Remorque motocycle",1,0,0,0,0
+"Jura","... Remorque de travail agricole",21,14,9,10,17
+"Jura","... Remorque transport de choses",125,150,180,137,121
+"Jura","... Caravane",6,8,10,6,11
+"Jura","... Remorque pour engins de sport",0,2,3,3,1
+"Jura","... Remorque de travail",7,3,3,4,6
+"Jura","... Semi-remorque transport de choses",3,6,1,2,2
+"Jura","... Autres remorques",5,0,1,4,6
