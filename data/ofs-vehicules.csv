@@ -1,0 +1,183 @@
+"Canton","Groupe / Genre de véhicule","2019","2020","2021","2022"
+"Zürich","> Voitures de tourisme",55714,39573,42067,35861
+"Zürich","> Véhicules de transport de personnes",802,969,1268,976
+"Zürich","> Véhicules de transport de choses",5555,4283,4489,3892
+"Zürich","> Véhicules agricoles",271,257,283,241
+"Zürich","> Véhicules industriels",815,693,854,760
+"Zürich","> Motocycles",6689,8189,8350,6935
+"Zürich","> Remorques",2128,2062,2188,2039
+"Bern / Berne","> Voitures de tourisme",23452,17640,18763,18825
+"Bern / Berne","> Véhicules de transport de personnes",1011,1060,1294,1070
+"Bern / Berne","> Véhicules de transport de choses",4464,3720,3529,3042
+"Bern / Berne","> Véhicules agricoles",465,460,491,390
+"Bern / Berne","> Véhicules industriels",749,635,636,629
+"Bern / Berne","> Motocycles",4567,5000,5668,5299
+"Bern / Berne","> Remorques",2575,2600,2856,2736
+"Luzern","> Voitures de tourisme",10066,7489,8082,7524
+"Luzern","> Véhicules de transport de personnes",399,478,505,419
+"Luzern","> Véhicules de transport de choses",1663,1330,1554,1230
+"Luzern","> Véhicules agricoles",193,228,245,193
+"Luzern","> Véhicules industriels",207,206,215,200
+"Luzern","> Motocycles",2069,2330,2756,2238
+"Luzern","> Remorques",1081,1053,1134,1074
+"Uri","> Voitures de tourisme",892,689,718,641
+"Uri","> Véhicules de transport de personnes",30,48,43,39
+"Uri","> Véhicules de transport de choses",103,98,85,77
+"Uri","> Véhicules agricoles",9,18,9,8
+"Uri","> Véhicules industriels",25,28,27,28
+"Uri","> Motocycles",125,145,189,157
+"Uri","> Remorques",93,82,98,86
+"Schwyz","> Voitures de tourisme",4867,3711,3880,3780
+"Schwyz","> Véhicules de transport de personnes",117,153,236,191
+"Schwyz","> Véhicules de transport de choses",598,518,610,458
+"Schwyz","> Véhicules agricoles",60,56,79,53
+"Schwyz","> Véhicules industriels",85,96,82,79
+"Schwyz","> Motocycles",729,990,1151,1046
+"Schwyz","> Remorques",437,462,492,447
+"Obwalden","> Voitures de tourisme",925,674,732,592
+"Obwalden","> Véhicules de transport de personnes",40,42,54,36
+"Obwalden","> Véhicules de transport de choses",128,103,111,102
+"Obwalden","> Véhicules agricoles",21,25,25,19
+"Obwalden","> Véhicules industriels",21,22,15,14
+"Obwalden","> Motocycles",170,190,261,225
+"Obwalden","> Remorques",158,137,133,134
+"Nidwalden","> Voitures de tourisme",1244,912,996,930
+"Nidwalden","> Véhicules de transport de personnes",32,56,56,47
+"Nidwalden","> Véhicules de transport de choses",129,89,113,86
+"Nidwalden","> Véhicules agricoles",11,9,10,13
+"Nidwalden","> Véhicules industriels",14,20,14,25
+"Nidwalden","> Motocycles",231,270,294,229
+"Nidwalden","> Remorques",77,102,110,109
+"Glarus","> Voitures de tourisme",1008,781,776,732
+"Glarus","> Véhicules de transport de personnes",27,35,39,30
+"Glarus","> Véhicules de transport de choses",166,135,137,136
+"Glarus","> Véhicules agricoles",20,27,17,14
+"Glarus","> Véhicules industriels",33,27,30,25
+"Glarus","> Motocycles",113,161,208,137
+"Glarus","> Remorques",111,95,111,91
+"Zug","> Voitures de tourisme",7931,6904,7676,7492
+"Zug","> Véhicules de transport de personnes",135,164,240,234
+"Zug","> Véhicules de transport de choses",957,769,885,737
+"Zug","> Véhicules agricoles",41,37,44,30
+"Zug","> Véhicules industriels",51,47,46,47
+"Zug","> Motocycles",605,818,861,642
+"Zug","> Remorques",233,261,261,241
+"Fribourg / Freiburg","> Voitures de tourisme",9924,7680,8538,7709
+"Fribourg / Freiburg","> Véhicules de transport de personnes",241,323,420,309
+"Fribourg / Freiburg","> Véhicules de transport de choses",1145,971,1012,835
+"Fribourg / Freiburg","> Véhicules agricoles",191,189,226,180
+"Fribourg / Freiburg","> Véhicules industriels",118,113,99,89
+"Fribourg / Freiburg","> Motocycles",1473,1698,2298,1933
+"Fribourg / Freiburg","> Remorques",1037,1133,1218,1053
+"Solothurn","> Voitures de tourisme",6753,4983,5139,4807
+"Solothurn","> Véhicules de transport de personnes",185,194,211,219
+"Solothurn","> Véhicules de transport de choses",985,806,911,821
+"Solothurn","> Véhicules agricoles",65,65,68,45
+"Solothurn","> Véhicules industriels",103,100,88,91
+"Solothurn","> Motocycles",989,1153,1440,1263
+"Solothurn","> Remorques",706,633,649,637
+"Basel-Stadt","> Voitures de tourisme",6665,4167,4486,2906
+"Basel-Stadt","> Véhicules de transport de personnes",44,48,71,101
+"Basel-Stadt","> Véhicules de transport de choses",657,590,691,474
+"Basel-Stadt","> Véhicules agricoles",2,0,5,2
+"Basel-Stadt","> Véhicules industriels",22,15,20,26
+"Basel-Stadt","> Motocycles",508,663,630,560
+"Basel-Stadt","> Remorques",135,128,132,102
+"Basel-Landschaft","> Voitures de tourisme",7235,5500,5748,5331
+"Basel-Landschaft","> Véhicules de transport de personnes",161,190,240,193
+"Basel-Landschaft","> Véhicules de transport de choses",1092,976,989,821
+"Basel-Landschaft","> Véhicules agricoles",45,45,66,43
+"Basel-Landschaft","> Véhicules industriels",89,83,88,80
+"Basel-Landschaft","> Motocycles",1258,1475,1520,1398
+"Basel-Landschaft","> Remorques",547,478,459,452
+"Schaffhausen","> Voitures de tourisme",1811,1289,1386,1391
+"Schaffhausen","> Véhicules de transport de personnes",61,76,95,67
+"Schaffhausen","> Véhicules de transport de choses",233,164,189,239
+"Schaffhausen","> Véhicules agricoles",107,119,126,122
+"Schaffhausen","> Véhicules industriels",20,30,25,47
+"Schaffhausen","> Motocycles",286,374,426,382
+"Schaffhausen","> Remorques",205,212,245,196
+"Appenzell Ausserrhoden","> Voitures de tourisme",1246,820,896,824
+"Appenzell Ausserrhoden","> Véhicules de transport de personnes",36,44,46,44
+"Appenzell Ausserrhoden","> Véhicules de transport de choses",146,112,118,106
+"Appenzell Ausserrhoden","> Véhicules agricoles",34,41,51,40
+"Appenzell Ausserrhoden","> Véhicules industriels",17,16,21,13
+"Appenzell Ausserrhoden","> Motocycles",224,279,329,302
+"Appenzell Ausserrhoden","> Remorques",139,138,146,154
+"Appenzell Innerrhoden","> Voitures de tourisme",470,354,383,328
+"Appenzell Innerrhoden","> Véhicules de transport de personnes",11,9,10,15
+"Appenzell Innerrhoden","> Véhicules de transport de choses",62,43,46,43
+"Appenzell Innerrhoden","> Véhicules agricoles",19,19,21,13
+"Appenzell Innerrhoden","> Véhicules industriels",7,5,16,9
+"Appenzell Innerrhoden","> Motocycles",84,84,136,105
+"Appenzell Innerrhoden","> Remorques",53,64,77,57
+"St. Gallen","> Voitures de tourisme",12231,8735,9479,9230
+"St. Gallen","> Véhicules de transport de personnes",337,372,443,393
+"St. Gallen","> Véhicules de transport de choses",2122,1665,1724,1486
+"St. Gallen","> Véhicules agricoles",191,216,226,179
+"St. Gallen","> Véhicules industriels",287,325,322,291
+"St. Gallen","> Motocycles",2031,2588,3077,2613
+"St. Gallen","> Remorques",1211,1264,1284,1212
+"Graubünden / Grigioni / Grischun","> Voitures de tourisme",5086,3551,3814,3429
+"Graubünden / Grigioni / Grischun","> Véhicules de transport de personnes",160,206,253,183
+"Graubünden / Grigioni / Grischun","> Véhicules de transport de choses",851,655,687,593
+"Graubünden / Grigioni / Grischun","> Véhicules agricoles",102,114,115,94
+"Graubünden / Grigioni / Grischun","> Véhicules industriels",206,213,200,179
+"Graubünden / Grigioni / Grischun","> Motocycles",698,885,983,908
+"Graubünden / Grigioni / Grischun","> Remorques",542,679,670,548
+"Aargau","> Voitures de tourisme",19500,14242,14566,13752
+"Aargau","> Véhicules de transport de personnes",498,489,646,524
+"Aargau","> Véhicules de transport de choses",2400,1860,2116,1815
+"Aargau","> Véhicules agricoles",160,212,177,157
+"Aargau","> Véhicules industriels",219,206,243,191
+"Aargau","> Motocycles",2991,3765,4184,3536
+"Aargau","> Remorques",1487,1493,1554,1506
+"Thurgau","> Voitures de tourisme",6991,4954,5420,5291
+"Thurgau","> Véhicules de transport de personnes",228,261,307,291
+"Thurgau","> Véhicules de transport de choses",1035,828,960,747
+"Thurgau","> Véhicules agricoles",139,154,160,107
+"Thurgau","> Véhicules industriels",140,157,155,135
+"Thurgau","> Motocycles",1265,1438,1833,1519
+"Thurgau","> Remorques",909,957,1027,951
+"Ticino","> Voitures de tourisme",14815,11046,11803,11228
+"Ticino","> Véhicules de transport de personnes",137,175,226,225
+"Ticino","> Véhicules de transport de choses",1487,1090,1246,1056
+"Ticino","> Véhicules agricoles",54,55,63,53
+"Ticino","> Véhicules industriels",113,145,139,94
+"Ticino","> Motocycles",2350,2507,2986,2746
+"Ticino","> Remorques",399,362,507,346
+"Vaud","> Voitures de tourisme",25496,18632,19816,18072
+"Vaud","> Véhicules de transport de personnes",426,483,640,577
+"Vaud","> Véhicules de transport de choses",2681,2032,2265,1809
+"Vaud","> Véhicules agricoles",251,280,261,235
+"Vaud","> Véhicules industriels",233,167,174,159
+"Vaud","> Motocycles",4001,4484,5379,4477
+"Vaud","> Remorques",1275,1358,1453,1261
+"Valais / Wallis","> Voitures de tourisme",8970,6546,7347,7174
+"Valais / Wallis","> Véhicules de transport de personnes",256,331,376,319
+"Valais / Wallis","> Véhicules de transport de choses",1264,1071,1179,950
+"Valais / Wallis","> Véhicules agricoles",119,99,115,90
+"Valais / Wallis","> Véhicules industriels",181,179,192,194
+"Valais / Wallis","> Motocycles",1627,1846,2460,2118
+"Valais / Wallis","> Remorques",894,985,1022,896
+"Neuchâtel","> Voitures de tourisme",5354,3700,4089,3714
+"Neuchâtel","> Véhicules de transport de personnes",106,112,150,121
+"Neuchâtel","> Véhicules de transport de choses",472,416,432,356
+"Neuchâtel","> Véhicules agricoles",39,42,53,48
+"Neuchâtel","> Véhicules industriels",50,72,61,49
+"Neuchâtel","> Motocycles",728,729,986,881
+"Neuchâtel","> Remorques",292,296,263,272
+"Genève","> Voitures de tourisme",11298,8642,8949,8465
+"Genève","> Véhicules de transport de personnes",149,145,227,193
+"Genève","> Véhicules de transport de choses",1302,982,1184,876
+"Genève","> Véhicules agricoles",35,27,31,27
+"Genève","> Véhicules industriels",63,72,56,75
+"Genève","> Motocycles",4246,4333,4851,3894
+"Genève","> Remorques",302,305,310,275
+"Jura","> Voitures de tourisme",2269,1750,1884,1591
+"Jura","> Véhicules de transport de personnes",51,62,78,67
+"Jura","> Véhicules de transport de choses",240,194,183,170
+"Jura","> Véhicules agricoles",74,71,85,55
+"Jura","> Véhicules industriels",34,23,17,28
+"Jura","> Motocycles",269,302,375,324
+"Jura","> Remorques",185,199,221,183
